@@ -53,6 +53,8 @@
 		B57E68F827EA95CD00A3EC2B /* JP_Apex_PredatorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JP_Apex_PredatorsUITests.swift; sourceTree = "<group>"; };
 		B57E68FA27EA95CD00A3EC2B /* JP_Apex_PredatorsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JP_Apex_PredatorsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B57E690727EA96D300A3EC2B /* jpapexpredators.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jpapexpredators.json; sourceTree = "<group>"; };
+		B5A082C7284C14C800E7381F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B5A082C8284C152700E7381F /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		B5CF1CC427ECA0CA003B7B29 /* PredatorController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorController.swift; sourceTree = "<group>"; };
 		B5D0B39E27EF4B33005FCF13 /* PredatorRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorRow.swift; sourceTree = "<group>"; };
 		B5D8D2B327F09487009010CB /* PredatorDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorDetail.swift; sourceTree = "<group>"; };
@@ -86,6 +88,8 @@
 		B57E68D127EA95CA00A3EC2B = {
 			isa = PBXGroup;
 			children = (
+				B5A082C8284C152700E7381F /* LICENSE.md */,
+				B5A082C7284C14C800E7381F /* README.md */,
 				B57E68DC27EA95CA00A3EC2B /* JP Apex Predators */,
 				B57E68ED27EA95CD00A3EC2B /* JP Apex PredatorsTests */,
 				B57E68F727EA95CD00A3EC2B /* JP Apex PredatorsUITests */,
