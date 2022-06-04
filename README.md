@@ -1,4 +1,4 @@
-# LOTR Converter
+# JP Apex Predators
 
 This is an iOS app written in Swift that allows you explore, sort, and filter different predators in the Jurassic Park universe.
 
